@@ -38,4 +38,4 @@ Example results
 
 Example output image.
 
-    .. image:: ../results/sierra.png
+    .. image:: sierra.png
