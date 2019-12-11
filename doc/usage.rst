@@ -7,7 +7,9 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
+You can clone this repository with::
+        
+        git clone https://github.com/karkman/word-count.git
 
 
 Make
@@ -29,4 +31,11 @@ Write me ...
 Where to find the results
 -------------------------
 
-Write me ...
+The results can be found from results folder.
+
+Example results
+---------------
+
+Example output image.
+
+    .. image:: ../results/sierra.png
