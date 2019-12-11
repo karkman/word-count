@@ -9,7 +9,7 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
 - Inspired by and derived from https://hpc-carpentry.github.io/hpc-python/
   which is distributed under
   [Creative Commons Attribution license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-- Documentation: https://word-count.readthedocs.io
+- Documentation: https://karkman-word-count.readthedocs.io
 
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
